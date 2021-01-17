@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaceTracking</string>
+    <string name="switch_camera">切换摄像头</string>
+</resources>
